@@ -1,3 +1,3 @@
 # hello-world2
 short desc
-harom ketto egy
+harom ketto egy negy
